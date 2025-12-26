@@ -2,6 +2,6 @@
 
 This is a simple tool that scrapes data from Youtube playlist and displays the data in an Excelsheet.
 
-<h4> Two ways to use it:</h4>
+<h3> Two ways to use it:</h3>
 1. Download the tool.
 <p>2. Download the Python file and run the following ependency commands in Powershell and in the same directory</p>
