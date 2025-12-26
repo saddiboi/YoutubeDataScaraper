@@ -1,7 +1,7 @@
 # YoutubeDataScaraper
 
 This is a simple tool that scrapes data from Youtube playlist and displays the data in an Excelsheet.
-
+<p>Data include video URL, video title, description, upload date and time, channel handle, channel name.</p>
 <h3> Two ways to use it:</h3>
 1. Download the YouTubePlaylistExporter.exe tool.
 <p>
