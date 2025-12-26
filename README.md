@@ -10,8 +10,6 @@ Or
 <p>
 <p>
 <p>2. Download the Python file and run the following ependency commands in Powershell and in the same directory</p>
-```powershell
-python -m pip install -U yt-dlp
-python -m yt_dlp -J "PUT_PLAYLIST_URL_HERE" --encoding utf-8 | Out-File -Encoding utf8 playlist.json
-python -m pip install openpyxl
-
+<p>* python -m pip install -U yt-dlp</p> 
+<p>* python -m yt_dlp -J "PUT_PLAYLIST_URL_HERE" --encoding utf-8 | Out-File -Encoding utf8 playlist.json</p>
+<p>* python -m pip install openpyxl</p>
